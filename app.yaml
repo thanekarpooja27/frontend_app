@@ -1,3 +1,4 @@
-runtime: go120
+runtime: go
 service: frontend
-region: us-central1
+env: flex
+
